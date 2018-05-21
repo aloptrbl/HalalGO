@@ -1,0 +1,7 @@
+<resources>
+
+
+    <string name="app_name">psm</string>
+<string name="facebook_app_id">423113758127836</string>
+<string name="fb_login_protocol_scheme">fb423113758127836</string>
+</resources>
