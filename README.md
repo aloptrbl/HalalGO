@@ -29,37 +29,35 @@ Before the user access the application, they need to enter email, password, full
 
 ### Install
 
-You need to install Node.js and Yarn to install the package dependency in package.json.
+You need to install Node.js and Yarn to install the package dependency in package.json through this command.
 
 ```
 yarn install
 ```
 
-### And coding style tests
+### Running
 
-Explain what these tests test and why
+Run the react native app
 
 ```
-Give an example
+react-native run-android
 ```
 
-## Deployment
+## Troubleshoot
 
-Add additional notes about how to deploy this on a live system
+If you have any issues you can create new issues in this repo.
 
 ## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [React](https://github.com/facebook/react) - JS library building UI 
+* [React Native](https://github.com/facebook/react-native) - Framework building native app
+* [React Native Element](https://github.com/react-native-training/react-native-elements) - React Native UI ToolKit
+* [Firebase](https://github.com/invertase/react-native-firebase) - Google Realtime Database
+* [Redux](https://github.com/reduxjs/redux/tree/master/docs) - State Management
+* [Router Flux](https://github.com/aksonov/react-native-router-flux) - React Native Flux
+* [Router Native FBSDK](https://github.com/facebook/react-native-fbsdk) - React Native FB wrapper
+* [React Native Camera](https://github.com/react-native-community/react-native-camera) - React Native Camera Component
+* [React Native Maps](https://github.com/react-community/react-native-maps) - React Native Mapview Component
+* [Google Place AutoComplete](https://github.com/FaridSafi/react-native-google-places-autocomplete) - Google Place AutoComplete Component
 
 ## Authors
 
