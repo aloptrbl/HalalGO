@@ -11,19 +11,19 @@ HalalGO is a native mobile application that use Android phone as a client. This 
 
 •	Login Module
 <br>This module is for Muslim user to login into HalalGO application. 
-Before the user access the application, they need to enter email, password, full name and upload user image. This function will allow the Muslim user to go to the homepage. User can login either with email or facebook.
+Before the user access the application, they need to enter email, password, full name and upload user image. This function will allow the Muslim user to go to the homepage. User also can login using facebook account.
 
 •	Manage New Halal Product Information Module
-<br>This module is for Muslim user to submit new Halal product information that does not exist yet in the application.
+<br>This module is for Muslim user to submit new Halal product/restaurant information that does not exist yet in the application. The information will be verify by HalalGo administator. 
 
 •	View Halal Product Information Module
-<br>This module is for Muslim user to view all verified Halal product information. Other user can give rating and comment to the product.
+<br>This module is for Muslim user to view all verified Halal product information. Other user can give rating and comment to the product. 
 
 •	Manage Home Feed Module
-<br>This module allow Muslim user to post recommended restaurant and interesting places. Other user can give some comment to the post.
+<br>This module allow Muslim user to post recommended restaurant and interesting places. Other user can give some comment to the post. 
 
 •	View Nearby Halal Restaurant Location
-<br>This module allow Muslim user view nearby Halal restaurant on map.
+<br>This module allow Muslim user view nearby Halal restaurant on map. All restaurant location will be pinned at the map.
 
 ### Install
 
