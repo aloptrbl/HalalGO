@@ -68,6 +68,11 @@ If you have any issues you can create new issues in this repo.
 
 See also the list of [contributors](https://github.com/aloptrbl/HalalGO/contributors) who participated in this project.
 
+### Contributors
+
+Thank you to all the people who have already contributed to react-native-firebase!
+<a href="graphs/contributors"><img src="https://opencollective.com/HalalGO/contributors.svg?width=890" /></a>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
