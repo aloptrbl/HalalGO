@@ -61,9 +61,9 @@ If you have any issues you can create new issues in this repo.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mohamad Zulhilmi bin Azaha** - *Initial work* - [aloptrbl](https://github.com/aloptrbl)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/aloptrbl/HalalGO/contributors) who participated in this project.
 
 ## License
 
