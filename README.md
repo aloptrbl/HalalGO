@@ -5,40 +5,40 @@ HalalGO is a native mobile application that use Android phone as a client. This 
 ## Module / Functionality
 
 •	Login Module
-This module is for Muslim user to login into HalalGO application. 
-<br>Before the user access the application, they need to enter email, password, full name and upload user image. This function will allow the Muslim user to go to the homepage.
+<br>This module is for Muslim user to login into HalalGO application. 
+Before the user access the application, they need to enter email, password, full name and upload user image. This function will allow the Muslim user to go to the homepage.
 
 •	Manage New Halal Product Information Module
 <br>This module is for Muslim user to submit new Halal product information that does not exist yet in the application.
 
 •	Manage New Halal Restaurant Information Module
-This module is for Muslim user to submit new Halal restaurant information that does not exist yet in the application.
+<br>This module is for Muslim user to submit new Halal restaurant information that does not exist yet in the application.
 
 •	View Halal Product Information Module
-This module is for Muslim user to view all verified Halal product information.
+<br>This module is for Muslim user to view all verified Halal product information.
 
 •	View Halal Restaurant Information Module
-This module is for Muslim user to view all verified Halal restaurant information.
+<br>This module is for Muslim user to view all verified Halal restaurant information.
 
 •	Rate Halal Product Module
-This module to allow Muslim user to rate on any Halal product in the application. 
+<br>This module to allow Muslim user to rate on any Halal product in the application. 
 
 •	Rate Halal Restaurant Module
-This module to allow Muslim user to rate on any Halal restaurant in the application. 
+<br>This module to allow Muslim user to rate on any Halal restaurant in the application. 
 
 
 •	Comment Halal Product Module
-This module allow Muslim user comment on any Halal product in the application.
+<br>This module allow Muslim user comment on any Halal product in the application.
 
 
 •	Comment Halal Restaurant Module
-This module allow Muslim user comment on any Halal product in the application.
+<br>This module allow Muslim user comment on any Halal product in the application.
 
-Manage Home Feed Module
-•	This module allow Muslim user to post recommended restaurant and interesting places.
+•	Manage Home Feed Module
+<br>This module allow Muslim user to post recommended restaurant and interesting places.
 
 •	View Nearby Halal Restaurant Location
-This module allow Muslim user view nearby Halal restaurant on map.
+<br>This module allow Muslim user view nearby Halal restaurant on map.
 
 
 ### Prerequisites
