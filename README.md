@@ -41,22 +41,12 @@ Before the user access the application, they need to enter email, password, full
 <br>This module allow Muslim user view nearby Halal restaurant on map.
 
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+You need to install Node.js and Yarn to install the package dependency in package.json.
 
 ```
-Give the example
+yarn install
 ```
 
 And repeat
