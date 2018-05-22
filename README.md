@@ -61,17 +61,14 @@ If you have any issues you can create new issues in this repo.
 
 ## Authors
 
-* **Mohamad Zulhilmi bin Azaha** - *Initial work* - [aloptrbl](https://github.com/aloptrbl)
+* **Mohamad Zulhilmi bin Azaha** - [aloptrbl](https://github.com/aloptrbl)
+* **Muhd Faizal bin Ayub** - [faizalayub](https://github.com/faizalayub)
+* **Umizatul Syahiirah binti Rajmal** - [UmizatulSyahiirah](https://github.com/UmizatulSyahiirah)
+* **Nur Hanisah binti Jailani ** - [hanisahjailani](https://github.com/hanisahjailani)
 
 See also the list of [contributors](https://github.com/aloptrbl/HalalGO/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
 
