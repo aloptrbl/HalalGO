@@ -2,9 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/aloptrbl/HalalGO/">
-   <img src="/app/assets/images/logo.png" alt="HalalGO"  width="150" style="display='flex';justifyContent:'center'" />
+   <img src="/app/assets/images/logo.png" alt="HalalGO"  width="200" style="display='flex';justifyContent:'center'" />
   </a>
-  <h2 align="center">HalalGO application</h2>
 </p>
 HalalGO is a native mobile application that use Android phone as a client. This application gives us opportunity to access an information from anywhere in the world at any time. HalalGO also help the user especially Muslim traveler to get Halal information easily and not wasting time to find the information. This application is used to help Muslim user to get information about Halal restaurant or Halal product information and can ensure the availability and verified of Halal product and restaurant. Muslim user can add both information and will be verified by HalalGO administrator.
 
