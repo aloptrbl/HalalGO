@@ -64,7 +64,7 @@ If you have any issues you can create new issues in this repo.
 * **Mohamad Zulhilmi bin Azaha** - [aloptrbl](https://github.com/aloptrbl)
 * **Muhd Faizal bin Ayub** - [faizalayub](https://github.com/faizalayub)
 * **Umizatul Syahiirah binti Rajmal** - [UmizatulSyahiirah](https://github.com/UmizatulSyahiirah)
-* **Nur Hanisah binti Jailani ** - [hanisahjailani](https://github.com/hanisahjailani)
+* **Nur Hanisah binti Jailani** - [hanisahjailani](https://github.com/hanisahjailani)
 
 See also the list of [contributors](https://github.com/aloptrbl/HalalGO/contributors) who participated in this project.
 
