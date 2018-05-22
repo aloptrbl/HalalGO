@@ -26,7 +26,6 @@ Before the user access the application, they need to enter email, password, full
 •	View Nearby Halal Restaurant Location
 <br>This module allow Muslim user view nearby Halal restaurant on map.
 
-
 ### Install
 
 You need to install Node.js and Yarn first to install the package dependency in package.json through this command.
