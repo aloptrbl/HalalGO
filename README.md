@@ -20,20 +20,6 @@ Before the user access the application, they need to enter email, password, full
 •	View Halal Restaurant Information Module
 <br>This module is for Muslim user to view all verified Halal restaurant information.
 
-•	Rate Halal Product Module
-<br>This module to allow Muslim user to rate on any Halal product in the application. 
-
-•	Rate Halal Restaurant Module
-<br>This module to allow Muslim user to rate on any Halal restaurant in the application. 
-
-
-•	Comment Halal Product Module
-<br>This module allow Muslim user comment on any Halal product in the application.
-
-
-•	Comment Halal Restaurant Module
-<br>This module allow Muslim user comment on any Halal product in the application.
-
 •	Manage Home Feed Module
 <br>This module allow Muslim user to post recommended restaurant and interesting places.
 
@@ -41,32 +27,12 @@ Before the user access the application, they need to enter email, password, full
 <br>This module allow Muslim user view nearby Halal restaurant on map.
 
 
-### Installing
+### Install
 
 You need to install Node.js and Yarn to install the package dependency in package.json.
 
 ```
 yarn install
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ### And coding style tests
