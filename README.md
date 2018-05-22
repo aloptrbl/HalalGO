@@ -29,7 +29,7 @@ Before the user access the application, they need to enter email, password, full
 
 ### Install
 
-You need to install Node.js and Yarn to install the package dependency in package.json through this command.
+You need to install Node.js and Yarn first to install the package dependency in package.json through this command.
 
 ```
 yarn install
