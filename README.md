@@ -9,7 +9,7 @@ HalalGO is a native mobile application that use Android phone as a client. This 
 
 ## Module / Functionality
 
-•	Login Module
+•	Login Modules
 <br>This module is for Muslim user to login into HalalGO application. 
 Before the user access the application, they need to enter email, password, full name and upload user image. This function will allow the Muslim user to go to the homepage. User also can login using facebook account.
 
